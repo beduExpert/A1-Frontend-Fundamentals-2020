@@ -13,7 +13,6 @@ Como la imagen irá debajo del video, el contenedor debe de cambiar la direcció
 de los elementos a `column`.
 :::
 
-
 <details>
   <summary>Posible solución</summary>
 
@@ -49,6 +48,6 @@ contenedor y cambia la dirección a `column`. Luego alinea los flex items.
 
 Resultando algo como:
 
-![Alineamiento de video](./assets/video-alignment.png)
+![Alineamiento de video](../assets/video-alignment.png)
 
 </details>

@@ -13,7 +13,7 @@ para que puedas consultar en caso te compliques en la implementación.
 
 El objetivo será agregar esta sección usando Flexbox:
 
-![Postwork](./assets/postwork.png)
+![Postwork](../assets/postwork.png)
 
 El color de fondo que usa esta sección es `#a1d683`, no te preocupes si no tienes
 idea de cómo realizar el efecto de que el fondo parezca que tiene una apariencia

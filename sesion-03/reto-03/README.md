@@ -46,11 +46,11 @@ través de clases.
   <article class="publish">
     <h3>Publish to your blog in minutes, not hours.</h3>
     <p>
-      Your blog is your most powerful asset to build, engage, and retain a
-      loyal audience. But you don’t have hours to create content that may or
-      may not work. With Matcha, instantly publish from our library of
-      10,000+ professionally written articles and build your email list
-      faster with our powerful conversion tool.
+      Your blog is your most powerful asset to build, engage, and retain a loyal
+      audience. But you don’t have hours to create content that may or may not
+      work. With Matcha, instantly publish from our library of 10,000+
+      professionally written articles and build your email list faster with our
+      powerful conversion tool.
     </p>
     <form>
       <p>Start publishing today:</p>
@@ -69,7 +69,7 @@ través de clases.
 }
 
 .publish h3 {
-  font-family: 'Alegreya', serif;
+  font-family: "Alegreya", serif;
   font-size: 40px;
   line-height: 48px;
   color: #025157;
@@ -94,8 +94,6 @@ través de clases.
 
 Resultando algo así:
 
-![Contenido publicitario](./assets/publish.png)
+![Contenido publicitario](../assets/publish.png)
 
 </details>
-
-
