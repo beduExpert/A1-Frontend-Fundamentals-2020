@@ -8,32 +8,32 @@ Una vez dentro de la plataforma de Netlify con la sesión inciada, nos aparecer�
 una sección llamada `Sites` mostrando una barra de búsqueda y un botón con el
 texto `New site from Git`. Daremos clic a dicho botón:
 
-![Paso 1 - Crear un sitio desde Git](./assets/step-1.png)
+![Paso 1 - Crear un sitio desde Git](../assets/step-1.png)
 
 Esta nos llevará a otra pantalla en la cual tendremos que seleccionar el
 proveedor de proyectos basado en Git donde se encuentra nuestro repositorio.
 En nuestro caso, seleccionaremos GitHub el cual estamos usando:
 
-![Paso 2 - Seleccionar Github](./assets/step-2.png)
+![Paso 2 - Seleccionar Github](../assets/step-2.png)
 
 Una vez autorizado el acceso a nuestros repos de GitHub, nos mostrará la lista
 de repositorios que tenemos en nuestra cuenta, seleccionar el del proyecto que
 hemos trabajado durante la sesión de hoy. Luego nos mostrará una pantalla como
 esta:
 
-![Paso 3 - Configuración de deploy](./assets/step-3.png)
+![Paso 3 - Configuración de deploy](../assets/step-3.png)
 
 En este paso, no es necesario realizar ningún cambio ya que nuestro sitio
 respeta las convenciones usadas por defecto y no usa ninguna herramienta de
 optimización como veremos en futuras sesiones. Procedemos a dar clic en el botón
 `Deploy site` y nos mostrará:
 
-![Paso 4 - Sitio desplegado](./assets/step-4.png)
+![Paso 4 - Sitio desplegado](../assets/step-4.png)
 
 Aquí podrás ver que se ha generado una URL aleatoria, en la cual si le das clic,
 podrás ver el resultado final:
 
-![Paso 5 - Resultado final](./assets/step-5.png)
+![Paso 5 - Resultado final](../assets/step-5.png)
 
 Con esto, ya tienes tu sitio publicado en internet y un link que cualquiera
 puede ver. Así que, ¡comparte con tus amigxs y familiares lo que has logrado en
