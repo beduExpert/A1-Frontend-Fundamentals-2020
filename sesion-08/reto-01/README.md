@@ -50,7 +50,6 @@ El link de la imagen es: `https://getmatcha.com/wp-content/themes/getmatcha/css/
 
 Resultando en algo como:
 
-![Email de bienvenida - 2 primeras filas](./assets/email-2-first-rows.png)
+![Email de bienvenida - 2 primeras filas](../assets/email-2-first-rows.png)
 
 </details>
-

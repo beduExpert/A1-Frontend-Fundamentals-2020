@@ -57,7 +57,7 @@ de entrada, espera un poco y deberías obtener un mensaje de un email llamado
 _bedu.sender@gmail.com_ con el mensaje que tu escribiste en el archivo
 `template.html` 🎉.
 
-![Primer email enviado](./assets/first-email.png)
+![Primer email enviado](../assets/first-email.png)
 
 ¿Qué te parece si agregamos un poco más de texto y cambiamos un poco su
 apariencia?
@@ -83,7 +83,7 @@ Asegúrate de cambiar la url de Matcha por el link de tu proyecto en Netlify.
 
 Enviemos este email de prueba y luego cambiemos su apariencia.
 
-![Email con mejor estructura](./assets/second-email.png)
+![Email con mejor estructura](../assets/second-email.png)
 
 Ahora que tal si incrementamos un poco el tamaño de fuente del párrafo y
 cambiamos de colores a los textos. ¿Esto sería con CSS, verdad? Y si bien lo
@@ -108,13 +108,13 @@ en cada una de las etiquetas de HTML que personalicemos.
 ¡Wohoo 🥳! Ya logramos poner algo de estilo, prueba tus cambios enviando el
 correo, este es el resultado del código de ejemplo:
 
-![Email con estilos](./assets/styled-email.png)
+![Email con estilos](../assets/styled-email.png)
 
 Ahora es el turno de crear un e-mail un poco más de acorde a lo que hemos ido
 construyendo durante este curso, por ello, vamos a desarrollar el siguiente
 email de bienvenida:
 
-![Matcha - Email de bienvenida](./assets/welcome-email.png)
+![Matcha - Email de bienvenida](../assets/welcome-email.png)
 
 Empecemos por acomodar todo dentro de una tabla, como hemos revisado en el
 prework, las tablas son elementos que nos permiten estructurar nuestra página
