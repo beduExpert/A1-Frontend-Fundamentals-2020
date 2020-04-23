@@ -3,7 +3,7 @@
 ¡Empecemos! Vamos a trabajar en la sección de características principales de
 nuestra web.
 
-![Características principales](./assets/features.png)
+![Características principales](../assets/features.png)
 
 Aprovechando que su apariencia puede ser construida a partir del uso de filas y
 columnas, haremos uso de Grid CSS para llevar a cabo esta parte de la web.
