@@ -5,7 +5,7 @@ están en la interface, pero dado que por defecto son de color blanco y se
 posicionan sobre los elementos del carousel, estos no se logran ver. Podemos
 analizar sus estilos por defecto en el devtools:
 
-![Estilos de los indicadores del carousel](./assets/carousel-indicators.png)
+![Estilos de los indicadores del carousel](../assets/carousel-indicators.png)
 
 Lo que se puede notar de acá es que el valor de la propiedad `position` es
 `absolute`, lo cual hace que salga del flujo original del documento, y a través
@@ -31,7 +31,7 @@ propiedad fue asignada. Para mayor información puedes consultar la
 
 Con esto, deberíamos lograr tener un resultado simila a:
 
-![Indicadores de carousel con position static](./assets/carousel-indicators-position.png)
+![Indicadores de carousel con position static](../assets/carousel-indicators-position.png)
 
 Si bien los indicadores ahora ya no se encuentran sobre la imagen, aparecen en
 la parte superior del carousel, esto debido a que respeta el flujo del documento

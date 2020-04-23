@@ -3,7 +3,7 @@
 Si comenzamos por cambiar el tamaño del navegador a uno más pequeño, llegaremos
 a un punto en el que nuestra barra de navegación se rompe:
 
-![Estilos de acciones en el navbar rotos](./assets/broken-navbar-actions.png)
+![Estilos de acciones en el navbar rotos](../assets/broken-navbar-actions.png)
 
 <details>
   <summary>Posible solución</summary>
@@ -23,4 +23,3 @@ quedando la clase `actions` de la siguiente manera:
 ```
 
 </details>
-

@@ -15,7 +15,7 @@ En este postwork práctico, te solicitamos implementar el footer de la página
 original de Matcha haciendo uso de clases y componentes de Bootstrap, debiendo
 resultar en algo similar a:
 
-![Footer a realizar en el Postwork](./assets/postwork.png)
+![Footer a realizar en el Postwork](../assets/postwork.png)
 
 Para llevar a cabo esta sección puedes usar la Grid que viene en Bootstrap:
 

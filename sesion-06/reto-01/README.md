@@ -57,7 +57,6 @@ tenemos en nuestra página.
 
 Viéndose algo como:
 
-![Barra de navegación de Bootstrap con contenido](./assets/bootstrap-default-navbar-with-content.png)
+![Barra de navegación de Bootstrap con contenido](../assets/bootstrap-default-navbar-with-content.png)
 
 </details>
-

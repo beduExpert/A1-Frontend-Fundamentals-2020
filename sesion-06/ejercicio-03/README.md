@@ -6,7 +6,7 @@ pantalla para que no se quede cortado como está en este momento.
 Si analizamos los estilos que tiene la etiqueta `nav`, nos daremos cuenta que
 tiene un estilo que limita su ancho al 70% del ancho de su contendor:
 
-![Estilos de la barra de navegación](./assets/devtools-navbar.png)
+![Estilos de la barra de navegación](../assets/devtools-navbar.png)
 
 Y como bien indica las herramientas de desarrollo, son estilos que se aplicaron
 en el archivo `styles.css` que nosotros creamos.
@@ -34,7 +34,7 @@ Eliminando el ancho de la clase `.navbar` quedaría así:
 
 Resultando en la barra de navegación tomando el ancho disponible del contenedor:
 
-![Barra de navegación con el ancho habitual](./assets/navbar-width.png)
+![Barra de navegación con el ancho habitual](../assets/navbar-width.png)
 
 Lo siguiente que corregiremos será el color, ya que ha tomado un color gris que
 la mayoría de componentes de Bootstrap usa por defecto. Para esto, no es
@@ -89,7 +89,7 @@ Bootstrap para ti, puedes revisar [esta sección de la documentación](https://g
 
 Resultando en:
 
-![Menú de navegación centrado](./assets/navbar-centered.png)
+![Menú de navegación centrado](../assets/navbar-centered.png)
 
 Para terminar de cambia la barra de navegación a como estaba originalmente, nos
 falta corregir los estilos de la sección de acciones, y si analizamos un poco
@@ -130,4 +130,4 @@ puedes revisar [esta sección de la documentación](https://getbootstrap.com/doc
 Con estos cambios la mayoría de estilos debería de volver a verse similar a como
 lo teníamos antes:
 
-![Barra de navegación con estilos](./assets/navbar-styled.png)
+![Barra de navegación con estilos](../assets/navbar-styled.png)

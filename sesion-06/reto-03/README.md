@@ -5,7 +5,7 @@ alineación de las opciones y tal vez el color del texto no se logra a percibir
 muy bien, para esto puedes usar algunos estilos en el media query para adaptarlo
 como tu prefieras.
 
-![Menú responsive desplegado](./assets/responsive-menu.png)
+![Menú responsive desplegado](../assets/responsive-menu.png)
 
 <details>
   <summary>Posible solución</summary>
@@ -29,4 +29,3 @@ menú hamburguesa.
 ```
 
 </details>
-
