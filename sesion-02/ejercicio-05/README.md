@@ -20,7 +20,7 @@ estos cambios en el repositorio de algunx de tus compañerxs:
 2. Ingresa a su repositorio de Github y dale clic al botón de `Fork` ubicado a
    la misma altura que el nombre de su repositorio. Por ejemplo:
 
-   ![Fork de un repositorio](./assets/fork.png)
+   ![Fork de un repositorio](../assets/fork.png)
 
    Esto creará una copia del proyecto de tu compañerx en tu cuenta de Github,
    esto permitirá que puedas hacer cambios en su proyecto sin afectar lo que
@@ -83,14 +83,14 @@ estos cambios en el repositorio de algunx de tus compañerxs:
 7. Esto habrá subido cambios a Github y te saldrá una alerta en tu copia del
    repositorio similar a la de la siguiente imagen:
 
-   ![Alerta de Pull Request](./assets/pr-alert.png)
+   ![Alerta de Pull Request](../assets/pr-alert.png)
 
    En este ejemplo, la rama se llama `session-2`, en tu caso, aparecerá el nombre
    de rama que elegiste. Dale click al botón `Compare & pull request`.
 
 8. Te llevará a una página como la siguiente:
 
-   ![Pull Request](./assets/pr.png)
+   ![Pull Request](../assets/pr.png)
 
    Esto es el formulario de apertura de un Pull Request (solicitud de cambio).
    Normalmente te pondrá un título que será el mismo que usaste como mensaje del
@@ -103,7 +103,7 @@ estos cambios en el repositorio de algunx de tus compañerxs:
    ahora queda en él/ella que lo acepte o rechace (esperemos que lo acepte). El
    Pull Request se verá algo como:
 
-   ![Pull Request enviado](./assets/pr-sent.png)
+   ![Pull Request enviado](../assets/pr-sent.png)
 
    Si tu compañerx decide aceptarlo, hará clic en el botón `Merge pull request`,
    caso contrario, le dará en `Close pull request`, en caso de usar este último
@@ -115,7 +115,7 @@ estos cambios en el repositorio de algunx de tus compañerxs:
 Una vez realizada esta introducción al trabajo colaborativo en Git, busca que
 tu proyecto se vea algo así:
 
-![Resultado Final - Sesión 2](./assets/end-result.png)
+![Resultado Final - Sesión 2](../assets/end-result.png)
 
 De esta manera es como se trabaja colaborativamente en el mundo profesional,
 sin afectar el avance de tus compañerxs, haciendo solicitudes y discutiendo

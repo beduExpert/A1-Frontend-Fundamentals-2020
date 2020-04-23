@@ -20,11 +20,12 @@ estos cambios en el repositorio de algunx de tus compañerxs:
 2. Ingresa a su repositorio de Github y dale clic al botón de `Fork` ubicado a
    la misma altura que el nombre de su repositorio. Por ejemplo:
 
-   ![Fork de un repositorio](./assets/fork.png)
+   ![Fork de un repositorio](../assets/fork.png)
 
    Esto creará una copia del proyecto de tu compañerx en tu cuenta de Github,
    esto permitirá que puedas hacer cambios en su proyecto sin afectar lo que
    viene trabajando.
+
 3. Clona su proyecto para empezar a realizar cambios, para esto, ingresa a tu
    carpeta general de proyectos en la terminal (en este ejemplo diremos que es
    la carpeta _Documents_) y ejecuta el comando de `git clone` seguido del link
@@ -44,6 +45,7 @@ estos cambios en el repositorio de algunx de tus compañerxs:
    $ # En el ejemplo sería: `cd demo-static-repo-deploy`
    $ cd <nombre-del-proyecto>
    ```
+
 4. Antes de empezar a hacer tus cambios, vamos a crear una `rama` en la que
    podrás hacer modificaciones sin fastidiar a los demás miembros de tu equipo.
    El concepto de rama lo verás a profundidad en el postwork, de momento imagina
@@ -60,6 +62,7 @@ estos cambios en el repositorio de algunx de tus compañerxs:
    # Para este ejemplo mi rama se llamará `estilos-generales`
    $ git checkout -b <nombre-rama> # git checkout -b estilos-generales
    ```
+
 5. Realiza algún cambio, ayuda a tu compañerx a agregar un estilo o alguna
    etiqueta de HTML que le faltó en la sesión o cambia la fuente o color de algo
    que tu sientas le puede ayudar a que se vea mejor su proyecto, esta elección
@@ -76,16 +79,18 @@ estos cambios en el repositorio de algunx de tus compañerxs:
    # En este ejemplo sería: `git push origin estilos-generales`
    $ git push origin <nombre-rama>
    ```
+
 7. Esto habrá subido cambios a Github y te saldrá una alerta en tu copia del
    repositorio similar a la de la siguiente imagen:
 
-   ![Alerta de Pull Request](./assets/pr-alert.png)
+   ![Alerta de Pull Request](../assets/pr-alert.png)
 
    En este ejemplo, la rama se llama `session-2`, en tu caso, aparecerá el nombre
    de rama que elegiste. Dale click al botón `Compare & pull request`.
+
 8. Te llevará a una página como la siguiente:
 
-   ![Pull Request](./assets/pr.png)
+   ![Pull Request](../assets/pr.png)
 
    Esto es el formulario de apertura de un Pull Request (solicitud de cambio).
    Normalmente te pondrá un título que será el mismo que usaste como mensaje del
@@ -93,11 +98,12 @@ estos cambios en el repositorio de algunx de tus compañerxs:
    saber al autor original del proyecto qué cambios hiciste, te recomendamos que
    le escribas una descripción detallada de los cambios que hiciste, y una vez
    terminado le des clic al botón `Create pull request`.
+
 9. Con esto habrás enviado una solicitud de cambio al repositorio de tu compañerx,
    ahora queda en él/ella que lo acepte o rechace (esperemos que lo acepte). El
    Pull Request se verá algo como:
 
-   ![Pull Request enviado](./assets/pr-sent.png)
+   ![Pull Request enviado](../assets/pr-sent.png)
 
    Si tu compañerx decide aceptarlo, hará clic en el botón `Merge pull request`,
    caso contrario, le dará en `Close pull request`, en caso de usar este último
