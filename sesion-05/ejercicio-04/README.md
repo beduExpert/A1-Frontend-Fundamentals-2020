@@ -38,4 +38,4 @@ Agreguemos una clase al banner y modifiquemos sus estilos:
 Con los cambios realizados hasta el momento, nuestra web en dispositivos
 pequeños deberían de verse así:
 
-![Resultado parcial de la página responsiva](./assets/home-responsive.png)
+![Resultado parcial de la página responsiva](../assets/home-responsive.png)

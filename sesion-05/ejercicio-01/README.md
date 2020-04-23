@@ -20,4 +20,4 @@ largo de este curso), aparecerá al lado izquierdo un ícono de la forma de un
 móvil y una tablet detrás, si damos click sobre dicho ícono, se sombreará y el
 espacio de nuestra web cambiará.
 
-![Responsive icon - Dev Tools](./assets/responsive-devtools.png)
+![Responsive icon - Dev Tools](../assets/responsive-devtools.png)

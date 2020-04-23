@@ -45,4 +45,4 @@ desde una pantalla táctil.
 Aplicando este cambio a nuestro sitio veremos que todo el texto se sobrepone y
 que la experiencia termina siendo muy mala. Ejemplo:
 
-![Aplicando viewport a nuestra página](./assets/viewport.png)
+![Aplicando viewport a nuestra página](../assets/viewport.png)
