@@ -13,14 +13,14 @@ en nuestro proyecto de Matcha, las 2 siguientes secciones son pequeñas, pero se
 pueden beneficiar de lo que hemos aprendido durante esta sesión, así que, trata
 por tu cuenta de desarrollar la apariencia de:
 
-![Matcha people](./assets/matcha-people.png)
+![Matcha people](../assets/matcha-people.png)
 
 En esta sección, usa el devtools para poder obtener la imagen de fondo. Asimismo,
 trata de usar las variables lo más que puedas para personalizar la apariencia de
 los formularios y si ves necesario abstraer esta sección de estilos en un módulo
 más, adelante, siéntete libre de hacerlo.
 
-![Try Matcha](./assets/try-matcha.png)
+![Try Matcha](../assets/try-matcha.png)
 
 Y en esta sesión, abstrae tus estilos para que reutilices lo más que puedas,
 como el formulario que es muy similar al implementado anteriormente pero con

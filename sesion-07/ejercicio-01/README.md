@@ -69,7 +69,7 @@ Agreguemos en el HTML la sección del blog que construiremos usando Sass:
 Con esto, si inspeccionamos la sección en el devtools veremos que nuestra
 sección tiene el fondo de color blanco como lo definimos en el archivo de Sass.
 
-![Estilos de sass en el devtools](./assets/sass-devtools.png)
+![Estilos de sass en el devtools](../assets/sass-devtools.png)
 
 ¡Yay! Ya estamos listos para empezar a escribir código en Sass. ¿Te diste cuenta
 que el código que escribimos fue exactamente igual que solo CSS? Entonces, ¿cuál

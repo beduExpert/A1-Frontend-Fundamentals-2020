@@ -58,6 +58,6 @@ utilizamos en nuestra segunda columna pero con el texto cambiado:
 
 Resultando en algo como:
 
-![Estructura de blog con 3 columnas completas](./assets/blog-3-columns.png)
+![Estructura de blog con 3 columnas completas](../assets/blog-3-columns.png)
 
 </details>
