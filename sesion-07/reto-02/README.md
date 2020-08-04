@@ -1,5 +1,12 @@
 # Agrega la tercera columna
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener Node instalado
+- Tener SASS instalado
+
+## INSTRUCCIONES
+
 Hasta el momento vimos como insertar la primera columna, ahora solo nos falta
 agregar la última columna. En general, debido a que estamos usando clases de
 Bootstrap y los estilos por clase en nuestro Sass, no deberíamos necesitar de
