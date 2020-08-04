@@ -1,5 +1,10 @@
 # Agregando color al texto principal
 
+## REQUISITOS
+- Tener un editor de código instalado
+
+## INSTRUCCIONES
+
 La primera propiedad que veremos será la de `color` y la usaremos para cambiar
 el color de los textos que hemos agregado.
 
