@@ -2,9 +2,8 @@
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
-- Tener cuenta en Netifly
-- Tener cuenta en GitHub
 - Tener conocimientos básicos de HTML y CSS
+- Tener conocimientos básicos de Git
 
 ## INSTRUCCIONES
 
