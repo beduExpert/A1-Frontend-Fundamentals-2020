@@ -1,5 +1,10 @@
 # Agregando estilos restantes
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+
+## INSTRUCCIONES
+
 A continuación completa los siguientes requerimientos:
 
 1. Todos los textos dentro de la barra de navegación deben usar la fuente
