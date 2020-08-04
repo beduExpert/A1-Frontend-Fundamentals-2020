@@ -1,5 +1,11 @@
 # Subiendo el proyecto a Netlify
 
+## REQUISITOS
+- Tener cuenta en Netlify
+- Tener un editor de código instalado
+
+## INSTRUCCIONES
+
 Lo primero que debemos hacer, es registrarnos en el sitio de [Netlify](https://www.netlify.com/).
 Te recomendamos que utilices tu cuenta de GitHub como registro ya que en caso de
 utilizar otro método, más adelante será necesario que se vincule de todas maneras.
