@@ -1,5 +1,13 @@
 # Agregando controles de reproducción al video
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener cuenta en Netifly
+- Tener cuenta en GitHub
+- Tener conocimientos básicos de HTML y CSS
+
+## INSTRUCCIONES
+
 Resulta que por defecto el navegador no agrega controles de reproducción al video,
 ¿puedes buscar cómo agregárselo?
 
