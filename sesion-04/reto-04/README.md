@@ -1,5 +1,13 @@
 # Agregando el contenido de las tarjetas
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener conocimientos básicos de CSS (Flexbox)
+- Tener conocimientos básicos de CSS (Gid)
+
+
+## INSTRUCCIONES
+
 ¡Es hora de poner en práctica lo aprendido hasta ahora! Agrega el contenido 
 interno de cada tarjeta a excepción de la animación que se genera al poner el
 mouse sobre la imagen de la derecha de cada tarjeta (si deseas averiguar cómo
