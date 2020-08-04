@@ -1,5 +1,13 @@
 # Grid con 2 filas y 2 columnas
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener conocimientos básicos de CSS (Flexbox)
+ Tener conocimientos básicos de CSS (Gid)
+- Conocer el modelo de caja 
+
+## INSTRUCCIONES
+
 Como en la mayoría de propiedades de CSS, existen muchos atajos para poner
 propiedades relacionadas en una sola. Las columnas y filas de CSS Grid no son la
 excepción, por lo cual, este reto consiste en obtener el mismo resultado de las
