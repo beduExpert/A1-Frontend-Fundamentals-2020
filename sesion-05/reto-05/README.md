@@ -1,5 +1,12 @@
 # Mejorando la experiencia móvil de las tarjetas de características
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener conocimientos básicos de CSS (Flexbox)
+- Tener conocimientos básicos de CSS (Gid)
+
+## INSTRUCCIONES
+
 Hasta este punto tenemos las características alineadas correctamente, sin embargo,
 todavía no dan una buena apariencia, debido al ancho que ocupan en la pantalla 
 se ve reducido y también porque la imagen no da una buena experiencia en este
