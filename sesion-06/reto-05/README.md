@@ -1,5 +1,11 @@
 # Cambiando los estilos de los elementos del carousel
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Conocer como instalar Bootstrap.
+
+## INSTRUCCIONES
+
 ¡Yay! Ya tenemos casi listo nuestro carousel y con interactividad gracias a
 Bootstrap. Ahora es tu turno de darle los toques finales. Elimina los espacios
 en blanco dentro de las tarjetas y cambia el color y el borde que engloca al
