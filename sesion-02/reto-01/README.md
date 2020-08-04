@@ -2,7 +2,7 @@
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
-- Tener la configuración básica en git(user.name/user.email)
+- Tener la configuración básica en git (user.name/user.email)
 - Tener conocimientos básicos de HTML y CSS
 
 ## INSTRUCCIONES
