@@ -1,9 +1,10 @@
 # Creación de estructura de proyecto
 
-#### REQUISITOS 
+## REQUISITOS 
 - Tener Git Bash si usas Windows.
 - Tener una cuenta en GitHub.
 
+## INSTRUCCIONES
 
 1. Abrir la terminal (tener en cuenta que la interfaz puede cambiar dependiendo
    del sistema operativo que tengas).
