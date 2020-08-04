@@ -1,5 +1,12 @@
 # Agrega la imagen descriptiva de Matcha para email
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener una cuenta de Netifly
+
+## INSTRUCCIONES
+
+
 Ya vimos como insertar el logo de Matcha para el email, ahora es tu turno de
 ingresar la segunda fila con la imagen descriptiva de lo que es Matcha.
 
