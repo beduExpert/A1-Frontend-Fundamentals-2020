@@ -1,5 +1,12 @@
 # Revisando el responsive de las acciones del navbar
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Conocer como instalar Bootstrap.
+- Saber que es un framework
+
+## INSTRUCCIONES
+
 Si comenzamos por cambiar el tamaño del navegador a uno más pequeño, llegaremos
 a un punto en el que nuestra barra de navegación se rompe:
 
