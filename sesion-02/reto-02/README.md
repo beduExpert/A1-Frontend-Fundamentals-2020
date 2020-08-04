@@ -1,5 +1,11 @@
 # Agregando el contenido de la barra de navegación
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener conocimientos básicos de HTML y CSS
+
+## INSTRUCCIONES
+
 Teniendo en cuenta lo siguiente:
 
 - El link de la imagen del logo es: `https://getmatcha.com/wp-content/themes/getmatcha/img/footer_logo.svg`
