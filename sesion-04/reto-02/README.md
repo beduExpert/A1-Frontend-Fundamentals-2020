@@ -1,5 +1,12 @@
 # Grid 2 filas con alto de `330px`
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener conocimientos básicos de CSS (Flexbox)
+- Conocer el modelo de caja 
+
+## INSTRUCCIONES
+
 Regresa la cantidad de columnas a las que realmente necesitamos (2) y agrega
 la cantidad de filas que usaremos (2) teniendo en cuenta que el alto será de
 `330px`. Una vez logrado, ¿cómo se te ocurre que podrías usar la unidad de `fr`
