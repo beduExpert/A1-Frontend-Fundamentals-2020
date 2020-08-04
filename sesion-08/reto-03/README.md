@@ -1,5 +1,11 @@
 # Agregar última sección de email de bienvenida
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener una cuenta de Netifly
+
+## INSTRUCCIONES
+
 Para cerrar con broche de oro este curso, te tocará implementar el footer del
 email de bienvenida, esto significa agregar el código necesario paa la última
 fila de la tabla que estructura nuestro correo de bienvenida.
