@@ -1,5 +1,12 @@
 # Creando nuestro HTML
 
+## REQUISITOS
+
+- Tener Git Bash si usas Windows.
+- Tener un editor de código instalado
+
+## INSTRUCCIONES
+
 Es momento de abrir nuestro editor de texto (ejemplo: Visual Studio Code) y
 abrir el directorio que creamos en dicho editor, selecciona tu archivo
 `index.html` y prepárate para ensuciarte las manos.
