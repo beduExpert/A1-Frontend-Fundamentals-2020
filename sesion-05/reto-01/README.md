@@ -1,5 +1,11 @@
 # Personaliza tu emulador de experiencia móvil
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Conocer el modelo de caja 
+
+## INSTRUCCIONES
+
 En la parte superior de la página saldrá algunas opciones que se pueden aplicar
 para personalizar la apariencia del emulador de apariencia móvil que estamos
 usando.
