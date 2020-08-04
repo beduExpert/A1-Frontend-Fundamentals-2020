@@ -1,5 +1,11 @@
 # Agregando el home de Matcha
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener un editor de código instalado
+
+## INSTRUCCIONES
+
 Siguiendo el diseño del sitio original de [`Matcha`](https://getmatcha.com),
 podemos ver que lo primero que nos muestra son textos de diferentes tamaños y
 colores además de un formulario y una imagen.
