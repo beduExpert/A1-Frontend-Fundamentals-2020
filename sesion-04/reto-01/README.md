@@ -2,7 +2,7 @@
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
-- Tener conocimientos básicos de CSS (Flexbox)
+- Tener conocimientos de CSS (Flexbox)
 
 ## INSTRUCCIONES
 
