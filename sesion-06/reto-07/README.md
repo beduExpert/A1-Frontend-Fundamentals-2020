@@ -1,5 +1,11 @@
 # Cambiando la información del acordión
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Conocer como instalar Bootstrap.
+
+## INSTRUCCIONES
+
 Reconoce la estructura del acordión e identifica los lugares en los que se debe
 modificar para cambiar el contenido del mismo.
 
