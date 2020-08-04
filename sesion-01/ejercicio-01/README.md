@@ -2,6 +2,7 @@
 
 ## REQUISITOS 
 - Tener Git Bash si usas Windows.
+- Tener un editor de código instalado
 - Tener una cuenta en GitHub.
 
 ## INSTRUCCIONES
