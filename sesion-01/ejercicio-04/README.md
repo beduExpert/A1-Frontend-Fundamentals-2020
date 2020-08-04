@@ -1,5 +1,11 @@
 # Agregando un formulario
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener un editor de código instalado
+
+## INSTRUCCIONES
+
 Los formularios en HTML hacen uso de etiquetas particulares para denotar el tipo
 de _control_ (caja de texto, botones, etc) que se va a usar en el formulario.
 
