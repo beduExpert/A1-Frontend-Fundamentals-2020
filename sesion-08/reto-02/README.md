@@ -1,5 +1,11 @@
 # Agregando segunda fila de características de Matcha
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener una cuenta de Netifly
+
+## INSTRUCCIONES
+
 Genial, ahora que ya hemos visto como distribuir en 2 columnas las
 características principales de Matcha, agrega la segunda fila para terminar esta
 sección.
