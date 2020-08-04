@@ -1,5 +1,12 @@
 # Corrige el menú desplegado en un móvil
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Conocer como instalar Bootstrap.
+- Saber que es responsive design
+
+## INSTRUCCIONES
+
 Ahora con el menú funcionando en dispositivos pequeños, notaremos que la
 alineación de las opciones y tal vez el color del texto no se logra a percibir
 muy bien, para esto puedes usar algunos estilos en el media query para adaptarlo
