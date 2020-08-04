@@ -1,5 +1,11 @@
 # Agregando la portada del video
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener conocimientos básicos de HTML y CSS
+
+## INSTRUCCIONES
+
 Bien, nuestro videos ya cuenta con controles de reproducción, además soporta más
 de un formato para optimizar la experiencia de nuestros usuarios. Sin embargo,
 sería genial poder definir la imagen que queremos que se vea antes de que se
