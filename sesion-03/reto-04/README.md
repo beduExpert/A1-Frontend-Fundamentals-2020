@@ -1,5 +1,11 @@
 # Agregando contenedor al video para agregar imagen
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Tener conocimientos básicos de HTML y CSS
+
+## INSTRUCCIONES
+
 ¿Te diste cuenta que hay una imagen debajo del video que no hemos agregado ni
 considerado? ¿Cómo va a afectar esto lo que llevamos actualmente? Bien, es tu
 momento de aplicar Flexbox por tu cuenta, vas a necesitar meter el video dentro
