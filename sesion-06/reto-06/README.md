@@ -1,5 +1,11 @@
 # Agregando la sección principal
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Conocer como instalar Bootstrap.
+
+## INSTRUCCIONES
+
 La sección principal de la página es un título y una descripción, parece ser
 algo similar a la del `index.html`. ¿Cómo lo harías en esta página?
 
