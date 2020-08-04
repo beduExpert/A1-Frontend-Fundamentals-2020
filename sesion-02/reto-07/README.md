@@ -1,5 +1,10 @@
 ## Final Challenge: Agrega los estilos correctos al contenido principal
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+
+## INSTRUCCIONES
+
 Te habrás dado cuenta que con lo visto hoy, puedes hacer cambios en los estilos
 del HTML de la sesión anterior, como por ejemplo:
 
