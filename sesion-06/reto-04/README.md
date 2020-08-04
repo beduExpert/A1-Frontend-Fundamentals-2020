@@ -1,5 +1,11 @@
 # Volviendo la barra de navegación fija
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+- Saber que es responsive design
+
+## INSTRUCCIONES
+
 Recuerdas que la barra de navegación tenía un posicionamiento fijo para que esta
 nos acompañe cuando hagamos scroll dentro de la página. ¿Has notado que este
 comportamiento ya no está presente? ¿Puedes solucionarlo?
