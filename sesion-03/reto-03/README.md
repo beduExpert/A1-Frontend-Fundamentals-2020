@@ -1,5 +1,10 @@
 # Agrega la sección de publicidad
 
+## REQUISITOS
+- Tener Git Bash si usas Windows.
+
+## INSTRUCCIONES
+
 Ya tenemos el video en nuestra página, ahora, si revisamos la web de Matcha, nos
 vamos a dar cuenta que tiene un texto publicitario junto con un formulario
 similar al que utilizamos en la parte de inicio, el reto consiste en que lo puedas
