@@ -2,8 +2,8 @@
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
-- Tener conocimientos básicos de CSS (Flexbox)
-- Tener conocimientos básicos de CSS (Gid)
+- Tener conocimientos de CSS (Flexbox)
+- Tener conocimientos de CSS (Gid)
 - Conocer el modelo de caja 
 
 ## INSTRUCCIONES
