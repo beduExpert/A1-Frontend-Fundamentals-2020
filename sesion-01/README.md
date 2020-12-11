@@ -23,21 +23,32 @@ En esta sesión aprenderás:
 - Git  instalado
 - Navegador web
 - Editor de código 
+- Cuenta de Github
 
 ## Organización de la clase
 
-- [Ejemplo 01: Creación de estructura de proyecto](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/ejercicio-01)
+- [Ejemplo 01: Creación de estructura de proyecto](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/Ejemplo%2001)
 
-- [Ejemplo  02: Abre tu primera cuenta en Amazon Web Services](https://github.com/beduExpert/AWS-Cloud-Foundations2020/tree/main/Sesión%2001/Reto%2002)
+- [Ejemplo  02: Creando nuestro HTML](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/Ejemplo%2002)
 
-- [Ejemplo  03: Abre tu primera cuenta en Amazon Web Services](https://github.com/beduExpert/AWS-Cloud-Foundations2020/tree/main/Sesión%2001/Reto%2002)
+- [Ejemplo  03: Agregando el home de Matcha](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/Ejemplo%2003)
 
-- [Ejemplo  04: Abre tu primera cuenta en Amazon Web Services](https://github.com/beduExpert/AWS-Cloud-Foundations2020/tree/main/Sesión%2001/Reto%2002)
+- [Reto  01: Segundo texto](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-01)
 
-- [Ejemplo  05: Abre tu primera cuenta en Amazon Web Services](https://github.com/beduExpert/AWS-Cloud-Foundations2020/tree/main/Sesión%2001/Reto%2002)
+- [Reto  02: Texto promocional](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-02)
 
-- [Reto  01: Abre tu primera cuenta en Amazon Web Services](https://github.com/beduExpert/AWS-Cloud-Foundations2020/tree/main/Sesión%2001/Reto%2002)
+- [Ejemplo  04: Agregando un formulario](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/Ejemplo%2004)
 
-- [Postwork](https://github.com/beduExpert/AWS-Cloud-Foundations2020/blob/main/Sesión%2001/Postword.md)
+- [Reto  03: Agregando la imagen](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-03)
+
+- [Ejemplo  05: Agregando color al texto principal](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/Ejemplo%2005)
+
+- [Reto  04: Cambia los colores](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-04)
+
+- [Reto  05: Cambia el color de fondo](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-05)
+
+- [Reto  06: Sube una nueva versión a Github](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-06)
+
+- [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/postwork)
 
 
