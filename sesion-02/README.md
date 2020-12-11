@@ -24,34 +24,41 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: HTML de la barra de navegación](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/ejercicio-01)
+- [Reto  01: Etiquetas semánticas para barra de navegación](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/reto-01)
 
-- [Ejemplo  02: Agregando separación entre barra de navegación y contenido](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/ejercicio-02)
+- [Ejemplo 01: HTML de la barra de navegación](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/Ejemplo%2001)
 
-- [Ejemplo  03: Cambiando el modelo de caja del menú de navegación]https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/ejercicio-03)
+- [Reto  02: Agregando el contenido de la barra de navegación](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/reto-02)
 
-- [Ejemplo  04: Alineamiento vertical](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/ejercicio-04)
+- [Ejemplo  02: Agregando separación entre barra de navegación y contenido](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/Ejemplo%2002)
 
-- [Ejemplo  05: Agrega los estilos correctos al contenido principal](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/Ejemplo%2003)
+- [Reto  03: Aplica el margen utilizando el atajo de la propiedad margin](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/reto-03)
+
+- [Reto  04: Aplica el margen al contenido](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/reto-04)
+
+- [Ejemplo  03: Cambiando el modelo de caja del menú de navegación](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/Ejemplo%2003)
+
+- [Reto  05: Alineación de texto en la barra de navegación](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/reto-05)
+
+- [Ejemplo  04: Alineamiento vertical](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/Ejemplo%2004)
+
+- [Ejemplo  05: Agrega los estilos correctos al contenido principal](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/Ejemplo%2005)
 
 
 
-- [Reto  01: Segundo texto](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-01)
 
-- [Reto  02: Texto promocional](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-02)
 
-- [Ejemplo  04: Agregando un formulario](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/Ejemplo%2004)
 
-- [Reto  03: Agregando la imagen](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-03)
 
-- [Ejemplo  05: Agregando color al texto principal](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/Ejemplo%2005)
 
-- [Reto  04: Cambia los colores](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-04)
 
-- [Reto  05: Cambia el color de fondo](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-05)
 
-- [Reto  06: Sube una nueva versión a Github](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/reto-06)
 
-- [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-01/postwork)
+
+- [Reto  06: Agregando estilos restantes](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/reto-06)
+
+- [Reto  07: Final Challenge: Agrega los estilos correctos al contenido principal](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/reto-07)
+
+- [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-02/postwork)
 
 
