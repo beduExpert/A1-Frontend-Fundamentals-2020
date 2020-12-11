@@ -38,7 +38,7 @@ En esta sesión aprenderás:
 
 - [Reto  04: Agregando contenedor al video para agregar imagen](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/reto-04)
 
-- [Ejemplo  05: Aplicando position:fixed](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/Ejemplo-05)
+- [Ejemplo  05: Aplicando `position:fixed`](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/Ejemplo-05)
 
 - [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/postwork)
 
