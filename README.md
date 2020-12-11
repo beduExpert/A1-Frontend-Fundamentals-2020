@@ -26,7 +26,7 @@ contacto.
 
 **¿Qué necesito para empezar a programar para la web?**
 
-El objetivo es que tengas todo lo necesario en tu computador para poder llegar a desgastar los dedos en tu primera sesión  y no invertir tiempo en configurar de tu entorno de desarrollo, a continuación encontraras la instalación necesario para pode iniciar a programar
+El objetivo es que tengas todo lo necesario en tu computador para poder llegar a desgastar los dedos en tu primera sesión  y no invertir tiempo en configurar de tu entorno de desarrollo, a continuación encontraras la [instalación](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/blob/master/Instalación.md) necesario para pode iniciar a programar
 
 ## Temario técnico
 
