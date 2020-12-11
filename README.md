@@ -30,11 +30,11 @@ El objetivo es que tengas todo lo necesario en tu computador para poder llegar a
 
 ## Temario técnico
 
-1. Git y terminal (Estructura tu sitio)
-2. HTML5 y CSS3 (Agregando barra de navegación)
-3. HTML- flexbox (Dividiendo secciones en columnas)
-4. CSS (Agregando filas y columnas con CSS Grid)
-5. Responsive design (Adaptando a la vista desde un móvil)
-6. CSS Frameworks (Reutilizando componentes visuales)
-7. Preprocesadores de CSS (Optimizando la producción de CSS)
-8. Email development / Deploy de un sitio estático (Email de Bienvenida)
+1. **Git y terminal**(Estructura tu sitio)
+2. **HTML5 y CSS3** (Agregando barra de navegación)
+3. **HTML- flexbox** (Dividiendo secciones en columnas)
+4. **CSS** (Agregando filas y columnas con CSS Grid)
+5. **Responsive design** (Adaptando a la vista desde un móvil)
+6. **CSS Frameworks** (Reutilizando componentes visuales)
+7. **Preprocesadores de CSS** (Optimizando la producción de CSS)
+8. **Email development / Deploy de un sitio estático** (Email de Bienvenida)
