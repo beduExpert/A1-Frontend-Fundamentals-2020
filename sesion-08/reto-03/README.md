@@ -117,4 +117,4 @@ $ git push origin <nombre-rama> # `master` si no estás trabajando en otra rama
 Al realizar este último comando tus cambios estarán reflejados en Netlify y podrás revisar tu web publicada en internet. No te esperes más e ingresa tu correo y mira lo cool que se ve en tu bandeja, tanto desde móvil como desde desktop:
 
 ![](../assets/1.png)
-![](../assets/2.png)
+![](../assets/2.jpeg)
