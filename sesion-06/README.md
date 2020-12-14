@@ -13,7 +13,7 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: Agregando estilos de Bootstrap al proyecto](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-02)
+- [Ejemplo 01: Agregando estilos de Bootstrap al proyecto](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-01)
 
 - [Ejemplo  02: Agregando el navbar](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-02)
 
