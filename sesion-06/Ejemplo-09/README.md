@@ -1,4 +1,4 @@
-# Guía: Agregando una nueva página
+# Agregando una nueva página
 
 Hasta este momento, todo nuestro código a estado dentro del `index.html` que por
 defecto es el archivo que todo navegador busca al acceder a un sitio web, ahora
