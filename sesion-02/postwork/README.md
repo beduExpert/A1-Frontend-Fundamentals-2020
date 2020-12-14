@@ -31,3 +31,18 @@ Debido a esto, te dejamos este tutorial interactivo para que vayas jugando un po
 💡 **PROTIP 01:**
 
 ![](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/blob/master/sesion-02/assets/p1.png)
+
+💡 **PROTIP 02:**
+
+![](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/blob/master/sesion-02/assets/2.png)
+
+### Recursos adicionales.
+
+Si quieres profundizar en estos temas, puedes consultar los siguientes recursos.
+
+> **Nota:**
+>
+>Por defecto algunos recursos se encuentran en Inglés, pero puedes configurar el idioma.
+
++ [Web fonts - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
++ [Google font - w3schools](https://www.w3schools.com/howto/howto_google_fonts.asp)
