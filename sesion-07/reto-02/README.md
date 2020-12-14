@@ -68,3 +68,28 @@ Resultando en algo como:
 ![Estructura de blog con 3 columnas completas](../assets/blog-3-columns.png)
 
 </details>
+
+## #Desplegando nuestros cambios
+Esto probablemente ya lo has venido haciendo muchas veces, pero no está demás recordarlo.
+
+Agrega tus cambios realizados a git:
+
+```bash
+$ git add -A
+```
+
+Agrega un mensaje descriptivo a tu nueva versión:
+
+```bash
+$ git commit -m "Agrega blog hecho con Sass"
+```
+
+Sube tus cambios a Github para que tengas un respaldo y siempre lo puedas descargar en cualquier otro ordenador:
+
+```bash
+$ git push origin <nombre-rama> # `master` si no estás trabajando en otra rama
+```
+
+Al realizar este último comando tus cambios estarán reflejados en Netlify y podrás revisar tu web publicada en internet, esperando que se vea algo como (o incluso mucho mejor):
+
+![1](../assets/1.png)
