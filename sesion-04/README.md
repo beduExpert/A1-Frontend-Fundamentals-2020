@@ -21,24 +21,18 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: Obteniendo cambios con git fetch y git merge](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/Ejemplo-01)
+- [Ejemplo 01: Obteniendo cambios con `git pull`](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/Ejemplo-01)
 
-- [Ejemplo  02: Agregando la etiqueta video de HTML5](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/Ejemplo-02)
+- [Ejemplo  02: Agregando características principales de Matcha](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/Ejemplo-02)
 
-- [Reto  01: Agregando controles de reproducción al video](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/reto-01)
+- [Reto  01: Grid con 3 columnas iguales](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/reto-01)
 
-- [Ejemplo  03: Agregando múltiples formatos de video](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/Ejemplo-03)
+- [Reto  02: Grid 2 filas con alto de `330px`](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/reto-02)
 
-- [Reto  02: Agregando la portada del video](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/reto-02)
+- [Reto  03: Grid con 2 filas y 2 columnas](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/reto-03)
 
-- [Reto  03: Agrega la sección de publicidad](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/reto-03)
+- [Reto  04: Agregando el contenido de las tarjetas](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/reto-04)
 
-- [Ejemplo  04: Alineamiento horizontal con flexbox](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/Ejemplo-04)
-
-- [Reto  04: Agregando contenedor al video para agregar imagen](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/reto-04)
-
-- [Ejemplo  05: Aplicando `position:fixed`](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/Ejemplo-05)
-
-- [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-03/postwork)
+- [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/postwork)
 
 
