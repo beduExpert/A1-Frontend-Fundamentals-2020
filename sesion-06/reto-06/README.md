@@ -1,4 +1,4 @@
-# Agregando la sección principal
+# Cambiando los estilos de los elementos del carousel
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
@@ -6,51 +6,35 @@
 
 ## INSTRUCCIONES
 
-La sección principal de la página es un título y una descripción, parece ser
-algo similar a la del `index.html`. ¿Cómo lo harías en esta página?
+¡Yay! Ya tenemos casi listo nuestro carousel y con interactividad gracias a
+Bootstrap. Ahora es tu turno de darle los toques finales. Elimina los espacios
+en blanco dentro de las tarjetas y cambia el color y el borde que engloca al
+botón de ver los casos de éxito.
 
 <details>
   <summary>Posible solución</summary>
 
-```html
-<body>
-  <!-- Aquí viene la barra de navegación -->
-  <main class="container">
-    <header class="header">
-      <h1>Free During COVID-19</h1>
-      <p>
-        Matcha is on a mission to make your blog the biggest asset for your
-        business’ growth, especially in today’s context. That’s why we’re
-        making the Matcha Platform free forever to all new users who sign up
-        during COVID-19.
-      </p>
-  </main>
-</body>
-```
+Para eliminar el espacio superior entre la imagen y el borde de la tarjeta,
+debemos de eliminar el `margin-top` que todos los elementos `<figure></figure>`
+tienen.
 
 ```css
-/** Aquí vienen los estilos definido previamente */
-main {
-  margin-top: 184px;
-  text-align: center;
+.success-stories .stories-carousel figure {
+  margin-top: 0;
 }
+```
 
-h1 {
-  color: #025157;
-  font-family: "Alegreya", serif;
-  font-size: 60px;
-  margin-bottom: 24px;
-}
+Y para elimianr el borde y color de fondo del botón en la parte inferior,
+debemos de sobreescribir las propiedads de `background-color` y `border-color`
+que Bootstrap le puso por coincidir en el nombre de clase que usan. Para lograr
+esto, podemos agregar las propiedades a los estilos que tenemos de la clase
+`card-footer`:
 
-.header {
-  padding-bottom: 184px;
-}
-
-.header p {
-  color: #46484c;
-  max-width: 680px;
-  margin: 0 auto;
-  margin-bottom: 72px;
+```css
+.success-stories .stories-carousel .card .card-footer {
+  margin-bottom: 20px;
+  background-color: transparent;
+  border-color: transparent;
 }
 ```
 

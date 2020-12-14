@@ -1,41 +1,253 @@
-# Cambiando los estilos de los elementos del carousel
+# Cambiando el contenido del carousel
 
 ## REQUISITOS
+
+
 - Tener Git Bash si usas Windows.
 - Conocer como instalar Bootstrap.
 
-## INSTRUCCIONES
+Una vez revisado la estructura del ejemplo de Bootstrap, debemos de cambiar el contenido del carousel para que contenga lo que nosotros teníamos. No te preocupes si los estilos no quedan perfecto, de momento solo nos enfocaremos en que en vez de imágenes rotas girando en el carousel, debe de ser el contenido que nosotros estamos esperando ver al final.
 
-¡Yay! Ya tenemos casi listo nuestro carousel y con interactividad gracias a
-Bootstrap. Ahora es tu turno de darle los toques finales. Elimina los espacios
-en blanco dentro de las tarjetas y cambia el color y el borde que engloca al
-botón de ver los casos de éxito.
+>**TIP**
+>
+>Recuerda en qué sección del código del ejemplo se ponen los elementos del carousel para que pongas el código que hemos comentado previamente. Por último, recuerda que nosotros solo teníamos las imágenes y texto de uno de los elementos del carousel, usa tus habilidades del manejo de las herramientas de desarrollo del desarrollo para obtener las imágenes.
 
 <details>
   <summary>Posible solución</summary>
 
-Para eliminar el espacio superior entre la imagen y el borde de la tarjeta,
-debemos de eliminar el `margin-top` que todos los elementos `<figure></figure>`
-tienen.
+Se debe de reemplazar las imágenes dentro de cada contenedor con clase carousel-item por el contenido que tenemos comentado.
 
-```css
-.success-stories .stories-carousel figure {
-  margin-top: 0;
-}
+```html
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <div class="card">
+      <div class="card-media">
+        <figure>
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/05/profile-headshot-square.png"
+            alt="Everly worker"
+          />
+        </figure>
+        <div class="company">
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/05/everly_logo_blue_v3_x60@2x.png"
+            alt="Everly"
+          />
+        </div>
+      </div>
+      <div class="card-body">
+        <h4>Everly</h4>
+        <h3>
+          Early-Stage CPG Brand Increases Lead Conversion 20x, Ecommerce Revenue
+          20%
+        </h3>
+        <div class="results">
+          <img
+            src="https://getmatcha.com/wp-content/themes/getmatcha/img/icon_cart.png"
+            alt="Cart icon"
+          />
+          <p>22% of monthly revenue influenced by content</p>
+        </div>
+      </div>
+      <div class="card-footer">
+        <button>See Case Study</button>
+      </div>
+    </div>
+  </div>
+  <div class="carousel-item">
+    <div class="card">
+      <div class="card-media">
+        <figure>
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/05/profile-headshot-square.png"
+            alt="Everly worker"
+          />
+        </figure>
+        <div class="company">
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/05/everly_logo_blue_v3_x60@2x.png"
+            alt="Everly"
+          />
+        </div>
+      </div>
+      <div class="card-body">
+        <h4>Everly</h4>
+        <h3>
+          Early-Stage CPG Brand Increases Lead Conversion 20x, Ecommerce Revenue
+          20%
+        </h3>
+        <div class="results">
+          <img
+            src="https://getmatcha.com/wp-content/themes/getmatcha/img/icon_cart.png"
+            alt="Cart icon"
+          />
+          <p>22% of monthly revenue influenced by content</p>
+        </div>
+      </div>
+      <div class="card-footer">
+        <button>See Case Study</button>
+      </div>
+    </div>
+  </div>
+  <div class="carousel-item">
+    <div class="card">
+      <div class="card-media">
+        <figure>
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/05/profile-headshot-square.png"
+            alt="Everly worker"
+          />
+        </figure>
+        <div class="company">
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/05/everly_logo_blue_v3_x60@2x.png"
+            alt="Everly"
+          />
+        </div>
+      </div>
+      <div class="card-body">
+        <h4>Everly</h4>
+        <h3>
+          Early-Stage CPG Brand Increases Lead Conversion 20x, Ecommerce Revenue
+          20%
+        </h3>
+        <div class="results">
+          <img
+            src="https://getmatcha.com/wp-content/themes/getmatcha/img/icon_cart.png"
+            alt="Cart icon"
+          />
+          <p>22% of monthly revenue influenced by content</p>
+        </div>
+      </div>
+      <div class="card-footer">
+        <button>See Case Study</button>
+      </div>
+    </div>
+  </div>
+</div>
 ```
 
-Y para elimianr el borde y color de fondo del botón en la parte inferior,
-debemos de sobreescribir las propiedads de `background-color` y `border-color`
-que Bootstrap le puso por coincidir en el nombre de clase que usan. Para lograr
-esto, podemos agregar las propiedades a los estilos que tenemos de la clase
-`card-footer`:
+Y luego cambiar el texto e imágenes de los siguientes elementos en el carousel:
 
-```css
-.success-stories .stories-carousel .card .card-footer {
-  margin-bottom: 20px;
-  background-color: transparent;
-  border-color: transparent;
-}
+```html
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <div class="card">
+      <div class="card-media">
+        <figure>
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/05/profile-headshot-square.png"
+            alt="Everly worker"
+          />
+        </figure>
+        <div class="company">
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/05/everly_logo_blue_v3_x60@2x.png"
+            alt="Everly"
+          />
+        </div>
+      </div>
+      <div class="card-body">
+        <h4>Everly</h4>
+        <h3>
+          Early-Stage CPG Brand Increases Lead Conversion 20x, Ecommerce Revenue
+          20%
+        </h3>
+        <div class="results">
+          <img
+            src="https://getmatcha.com/wp-content/themes/getmatcha/img/icon_cart.png"
+            alt="Cart icon"
+          />
+          <p>22% of monthly revenue influenced by content</p>
+        </div>
+      </div>
+      <div class="card-footer">
+        <button>See Case Study</button>
+      </div>
+    </div>
+  </div>
+  <div class="carousel-item">
+    <div class="card">
+      <div class="card-media">
+        <figure>
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/08/0.jpg"
+            alt="Seato Summit worker"
+          />
+        </figure>
+        <div class="company">
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/08/SeatoSummitLogo.png"
+            alt="Seato Summit Logo"
+          />
+        </div>
+      </div>
+      <div class="card-body">
+        <h4>Sea to Summit</h4>
+        <h3>
+          Sea to Summit’s Ecommerce Site Traffic Climbs 189%, New Subscribers
+          820%
+        </h3>
+        <div class="results">
+          <img
+            src="https://getmatcha.com/wp-content/themes/getmatcha/img/icon_audiences.png"
+            alt="Audience icon"
+          />
+          <p>500% increase in traffic from social media</p>
+        </div>
+      </div>
+      <div class="card-footer">
+        <button>See Case Study</button>
+      </div>
+    </div>
+  </div>
+  <div class="carousel-item">
+    <div class="card">
+      <div class="card-media">
+        <figure>
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/06/matt-and-margaret_headshot.png"
+            alt="Mambe workers"
+          />
+        </figure>
+        <div class="company">
+          <img
+            src="https://getmatcha.com/wp-content/uploads/2019/06/mambe-logo-1.png"
+            alt="Mambe"
+          />
+        </div>
+      </div>
+      <div class="card-body">
+        <h4>Mambe Waterproof Blankets</h4>
+        <h3>
+          How Mambe Increased Conversions by 327%, Reduced CPL by 60%
+        </h3>
+        <div class="results">
+          <img
+            src="https://getmatcha.com/wp-content/themes/getmatcha/img/icon_target.png"
+            alt="Target icon"
+          />
+          <p>+327% more popup conversions at a 60% lower cost</p>
+        </div>
+      </div>
+      <div class="card-footer">
+        <button>See Case Study</button>
+      </div>
+    </div>
+  </div>
+</div>
 ```
 
-</details>
+Luego de aplicado los cambios debería quedarr algo similar a:
+
+![1c](../assets/1c.png)
+
+Con esto, podemos detectar ciertos detalles que debemos corregir en la apariencia:
+
+La flecha de siguiente se sale de la tarjeta y probablemente no la necesitamos.
+Los indicadores no se logran ver aunque no los hemos borrado del código.
+La tarjeta tiene espacios en blanco en la parte superior e inferior.
+El color del botón para ver el caso de estudio tiene un color de fondo que antes no tenía.
+Procedamos a corregir estos detalles 😎.
+
+  </details>
