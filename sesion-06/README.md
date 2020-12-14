@@ -33,26 +33,26 @@ En esta sesión aprenderás:
 
 - [Ejemplo  06: Agregando carousel de Bootstrap](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-06)
 
+- [Reto  05: Cambiando el contenido del carousel](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/reto-05)
 
 - [Ejemplo 07: Eliminando flechas de control de carousel](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-07)
 
 - [Ejemplo  08: Cambiando de posición a los indicadores del carousel](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-08)
 
-- [Reto  05: Cambiando los estilos de los elementos del carousel](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/reto-05)
+- [Reto  06: Cambiando los estilos de los elementos del carousel](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/reto-06)
 
 - [Ejemplo  09: Agregando una nueva página](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-09)
 
-- [Reto  06: Agregando la sección principal](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/reto-06)
+- [Reto  07: Agregando la sección principal](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/reto-07)
 
 - [Ejemplo  10: Agregando un grupo de botones](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-10)
 
 - [Ejemplo  11: Agregando la sección de Faqs](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-11)
 
-- [Reto  07: Cambiando la información del acordión](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/reto-07)
+- [Reto  08: Cambiando la información del acordión](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/reto-08)
 
 - [Ejemplo  12: Agregando la siguiente columna de preguntas frecuentes](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/Ejemplo-12)
 
-
-- [Reto  08: Agrega la segunda columna de preguntas frecuentes](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/reto-08)
+- [Reto  09: Agrega la segunda columna de preguntas frecuentes](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-06/reto-09)
 
 - [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-05/postwork)
