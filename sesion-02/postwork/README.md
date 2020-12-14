@@ -30,4 +30,4 @@ Debido a esto, te dejamos este tutorial interactivo para que vayas jugando un po
 
 💡 **PROTIP 01:**
 
-<img src="../assets/1.png">
+![](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/blob/master/sesion-02/assets/p1.png)
