@@ -1,381 +1,76 @@
-# Agregando primera columna del blog
+# Empezando a estructurar Sass
 
-De esta manera ya hemos indicado que la sección de blog va a utilizar tres
-columnas. Comencemos por agregar el contenido de la primera columna:
+Sass nos permite detectar dos tipos de archivos, los que tienen extensión `.scss`
+ó `.sass`. El primero tiene dicha extensión porque su sintaxis base es muy
+similar a la de CSS, mientras que el segundo es una sintaxis particular (por
+ejemplo: no usa llaves `{}` para englobar las propiedades de un selector). En
+nuestro caso, usaremos la extensión `.scss` porque creemos que te será más fácil
+de usar debido a lo que hemos ido aprendiendo en el curso. Dado que vamos a
+estar usando diversos archivos de Sass, crearemos una carpeta llamada `scss` a
+la misma altura de nuestros archivos principales (`index.html` y `styles.css`) y
+aprovecharemos en crear un archivo llamado `main.scss` dentro de esta carpeta.
 
-```html{4-34}
-<section class="container blog">
-  <div class="row">
-    <div class="col">
-      <h2 class="title">Learn how to grow your ecommerce business.</h2>
-      <article class="process-list">
-        <div class="process">
-          <div class="process-icon">
-            <img src="./icons/build.svg" alt="Build icon" />
-          </div>
-          <div class="process-description">
-            <h3>Build</h3>
-            <p>and scale your ecommerce store</p>
-          </div>
-        </div>
-        <div class="process">
-          <div class="process-icon">
-            <img src="./icons/attract.svg" alt="Attract icon" />
-          </div>
-          <div class="process-description">
-            <h3>Attract</h3>
-            <p>your target audience and grow site traffic</p>
-          </div>
-        </div>
-        <div class="process">
-          <div class="process-icon">
-            <img src="./icons/convert.svg" alt="Convert icon" />
-          </div>
-          <div class="process-description">
-            <h3>Convert</h3>
-            <p>readers to subscribers and customers</p>
-          </div>
-        </div>
-      </article>
-      <button>Read the blog</button>
-    </div>
-    <div class="col"></div>
-    <div class="col"></div>
-  </div>
-</section>
-```
-
-Hemos ido agregando clases que luego utilizaremos para cambiar la apariencia que
-se tiene por defecto.
-
-:::tip
-
-En este caso, estamos usando rutas relativas para las imágenes, si no tienes
-estas imágenes las puedes encontrar en:
-
-- [Ícono de build](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/build.svg)
-- [Ícono de attract](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/attract.svg)
-- [Ícono de convert](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/convert.svg)
-
-Estos íconos fueron guardados en una carpeta `icons` en la raíz del proyecto. Si
-utilizas otra ruta para guardar estos íconos asegúrate de cambiarle la ruta
-relativa.
-
-:::
-
-Como vemos en el resultado de esta estructura, toma ciertos estilos por defecto
-pero que no son exactamente lo que queremos. Vamos a cambiar su apariencia
-usando Sass. Empecemos por solucionar el ancho del contenedor de la sección:
-
-```scss
-/** main.scss */
-.blog {
-  background-color: #ffffff;
-  max-width: unset;
-  padding: 5% 10%;
-}
-```
-
-Con esto ya tenemos el fondo de color blanco aplicado correctamente a la sección
-de blog y también el margen respectivo. Ahora vamos a terminar de crear los
-estilos de la primera columna, y podemos percatarnos de que los estilos son muy
-similares, es decir, vamos a usar los mismos colores que en otras secciones, así
-como tamaño y tipos de fuente. ¿Qué tal si las almacenamos en un único lugar y
-que si en algún momento tuviéramos que cambiar el tipo de fuente o color de la
-marca, lo haríamos en un solo lugar y no en todos los que usamos? Esto es posible
-gracias a que Sass nos provee el uso de [variables](https://sass-lang.com/documentation/variables).
-
-Para esto vamos a crear un archivo llamado `_global.scss` en la carpeta `scss`.
-
-La estructura debería quedar:
+La estructura de nuestro proyecto debería verse algo así:
 
 ```text
 .
 +-- scss/
-+----- _global.scss
 +----- main.scss
 +-- index.html
 +-- styles.css
 ```
 
-Posteriormente vamos a crear algunas variables para los colores que vamos a
-utilizar en esta columna:
+Una vez con la estructura de archivos creada, abre el archivo `main.scss` y
+comencemos por escribir una clase para ver un ejemplo de lo que podemos lograr:
 
 ```scss
-/** _global.scss */
-$dark-green-title: #025157;
-$dark-green-text: #135359;
-$white: #ffffff;
-```
-
-Con las variables definidas, podremos usarlas en nuestro `main.scss` haciendo
-referencia al nombre de la variable y si en algún momento cambiaran los colores
-por un rediseño de marca por ejemplo, solo tendríamos que cambiarlo en nusetro
-archivo `_global.scss` y esto afectaría a todos los lugares que la usan.
-
-Por último, vamos a hacer una clase placeholder que otras clases puedan usar
-como base, esto lo haremos para el título, ya que la fuente, color y tamaño es
-común en otras secciones de la página. Para esto usaremos la funcionalidad de
-[extensión o herencia](https://sass-lang.com/documentation/at-rules/extend) que
-Sass nos provee. Empecemos por crear una variable para la fuente del título:
-
-```scss{8-9}
-/** _global.scss */
-
-/** colores */
-$dark-green-title: #025157;
-$dark-green-text: #135359;
-$white: #ffffff;
-
-/** fuentes */
-$font-title: "Alegreya", serif;
-```
-
-Y ahora definamos la clase de placeholder:
-
-```scss{11-15}
-/** _global.scss */
-
-/** colores */
-$dark-green-title: #025157;
-$dark-green-text: #135359;
-$white: #ffffff;
-
-/** fuentes */
-$font-title: "Alegreya", serif;
-
-/** placeholders */
-%base-title {
-  font-family: $font-title;
-  color: $dark-green-text;
-}
-```
-
-De esta forma ya hemos creado valores que a través de un identificador, podemos
-usarla en nuestro código. Probablemente te quede una duda, cómo vamos a hacer
-para que nuestro `main.scss` use los valores que hemos definido en otro archivo
-llamado `_global.scss`. Para esto aprovecharemos la característica de módulos de
-Sass, que a través de una regla llamada [`@use`](https://sass-lang.com/documentation/at-rules/use)
-podemos indicar que tenga acceso a las variables definidas en el otro archivo.
-
-Utilicemos `@use` para usar nuestras variables en el archivo `main.scss`:
-
-```scss{2,5}
-/** main.scss */
-@use 'global' as *;
-
 .blog {
-  background-color: $white;
-  max-width: unset;
-  padding: 5% 10%;
+  background-color: #ffffff;
 }
 ```
 
-Dado que `@use` hace uso de un _namespace_ para identificar todas las variables
-que se exportan desde el módulo que indicamos, en nuestro caso le hemos puesto
-un `*` para no tener que estar escribiendo un nombre de espacio antes de cada
-vaiable que queramos usar. A su vez, hicimos la prueba cambiando el color de
-fondo de la sección usando la variable `$white` que definimos en el otro archivo.
+Ahora, ubicado en la raíz del proyecto, vamos a ejecutar el siguiente comando:
 
-Ahora si estamos listos para agregar nuestros estilos a la primera columna,
-empecemos por el título:
-
-```scss{9-11}
-/** main.scss */
-@use 'global' as *;
-
-.blog {
-  background-color: $white;
-  max-width: unset;
-  padding: 5% 10%;
-
-  .title {
-    @extend %base-title;
-  }
-}
+```bash
+$ pwd # asegúrate de estar en la raíz del proyecto
+/ruta/al/proyecto
+$ sass --watch scss/main.scss output.css # la salida debería salir algo similar
+Compiled scss/main.scss to output.css.
+Sass is watching for changes. Press Ctrl-C to stop.
 ```
 
-Acá hicimos uso de la regla `@extend` para heredar la clase de placeholder que
-definimos en el archivo `_global.scss` y además usamos la funcionalidad de
-[`nesting`](https://sass-lang.com/documentation/style-rules/declarations#nesting)
-que nos permite definir selectores dentro de otros selectores, esto terminaría
-compilándose en el css a `.blog .title` sin la necesidad que nosotros lo
-escribamos de dicha forma.
+Este comando lo que hace es _"escuchar"_ los cambios que realizamos en los
+archivos relacionados al `scss/main.scss` y cada vez que guardemos uno, este
+generará un archivo llamado `output.css` y `output.css.map` con el código de CSS
+que se generó a partir del archivo escrito en Sass.
 
-Ahora, pongamos un poco de estilos a la lista de procesos:
+Por último, para que podamos usar el CSS generado por nuestro código en Sass,
+tenemos que agregar enlazar el `output.css` a nuestro HTML de la siguiente
+manera:
 
-```scss{13-20}
-/** main.scss */
-@use 'global' as *;
-
-.blog {
-  background-color: $white;
-  max-width: unset;
-  padding: 5% 10%;
-
-  .title {
-    @extend %base-title;
-  }
-
-  .process-list {
-    margin-top: 40px;
-    margin-bottom: 36px;
-
-    .process {
-      margin-bottom: 25px;
-    }
-  }
-}
+```html
+<!-- index.html -->
+<head>
+  <!-- Aquí vienen los enlaces a Bootstrap y styles.css -->
+  <link rel="stylesheet" type="text/css" href="./styles.css" />
+</head>
 ```
 
-Hemos agregado un poco de espaciado a la lista de procesos y entre cada uno de
-los procesos, ahora vamos a definir propiedades específicas para el texto que
-está dentro de cada proceso. Usaremos el [`parent selector`](https://sass-lang.com/documentation/style-rules/parent-selector)
-de Sass para hacer referencia al selector padrer y aplicar un selector de CSS
-más específico:
+Agreguemos en el HTML la sección del blog que construiremos usando Sass:
 
-```scss{20-31}
-/** main.scss */
-@use 'global' as *;
-
-.blog {
-  background-color: $white;
-  max-width: unset;
-  padding: 5% 10%;
-
-  .title {
-    @extend %base-title;
-  }
-
-  .process-list {
-    margin-top: 40px;
-    margin-bottom: 36px;
-
-    .process {
-      margin-bottom: 25px;
-
-      & > div {
-        & > h3 {
-          color: $dark-green-title;
-          margin-bottom: 0;
-          font-size: 30px;
-          font-weight: 500;
-        }
-        & > p {
-          color: $dark-green-text;
-          margin: 0;
-        }
-      }
-    }
-  }
-}
+```html{3}
+<body>
+  <!-- Aquí vienen las demás secciones -->
+  <section class="blog"></section>
+  <!-- Aquí vienen los scripts de Bootstrap -->
+</body>
 ```
 
-Y ahora agreguemos estilos para el ícono de cada uno de los procesos:
+Con esto, si inspeccionamos la sección en el devtools veremos que nuestra
+sección tiene el fondo de color blanco como lo definimos en el archivo de Sass.
 
-```scss{33-42}
-/** main.scss */
-@use 'global' as *;
+![Estilos de sass en el devtools](../assets/sass-devtools.png)
 
-.blog {
-  background-color: $white;
-  max-width: unset;
-  padding: 5% 10%;
-
-  .title {
-    @extend %base-title;
-  }
-
-  .process-list {
-    margin-top: 40px;
-    margin-bottom: 36px;
-
-    .process {
-      margin-bottom: 25px;
-
-      & > div {
-        & > h3 {
-          color: $dark-green-title;
-          margin-bottom: 0;
-          font-size: 30px;
-          font-weight: 500;
-        }
-        & > p {
-          color: $dark-green-text;
-          margin: 0;
-        }
-      }
-
-      .process-icon {
-        width: 60px;
-        height: 60px;
-        margin-right: 10px;
-        text-align: center;
-
-        img {
-          height: 100%;
-        }
-      }
-    }
-  }
-}
-```
-
-Por último, agreguemos los estilos del botón:
-
-```scss{33-42}
-/** main.scss */
-@use 'global' as *;
-
-.blog {
-  background-color: $white;
-  max-width: unset;
-  padding: 5% 10%;
-
-  .title {
-    @extend %base-title;
-  }
-
-  .process-list {
-    margin-top: 40px;
-    margin-bottom: 36px;
-
-    .process {
-      margin-bottom: 25px;
-
-      & > div {
-        & > h3 {
-          color: $dark-green-title;
-          margin-bottom: 0;
-          font-size: 30px;
-          font-weight: 500;
-        }
-        & > p {
-          color: $dark-green-text;
-          margin: 0;
-        }
-      }
-
-      .process-icon {
-        width: 60px;
-        height: 60px;
-        margin-right: 10px;
-        text-align: center;
-
-        img {
-          height: 100%;
-        }
-      }
-    }
-  }
-
-  button {
-    height: auto;
-    border-top-left-radius: 8px;
-    border-bottom-left-radius: 8px;
-    padding: 12px;
-    width: 180px;
-    margin-bottom: 15px;
-  }
-}
-```
+¡Yay! Ya estamos listos para empezar a escribir código en Sass. ¿Te diste cuenta
+que el código que escribimos fue exactamente igual que solo CSS? Entonces, ¿cuál
+es la ventaja de usarlo? Es lo que vamos a descubrir en el siguiente apartado.
