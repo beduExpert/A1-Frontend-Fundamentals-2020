@@ -33,9 +33,6 @@ aprendido el día de hoy, te dejamos algunos:
 
   [Aprende a usar el preprocesador de CSS, Sass](https://styde.net/aprende-front-end-css-sass/)
 
-- Si prefieres lo visual, este taller en video te puede servir:
-
-  [![Aprende Sass en 20 minutos - #EDtaller 139](http://i3.ytimg.com/vi/mHp2nr2kErs/maxresdefault.jpg)](https://www.youtube.com/watch?v=mHp2nr2kErs)
 
 Por último, algo que encontrarás muy común respecto a Sass, es que la mayoría
 lo instala usando [`ruby`](https://www.ruby-lang.org/es/) que es un lenguaje de
