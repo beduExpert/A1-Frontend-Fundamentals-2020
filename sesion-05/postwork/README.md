@@ -6,17 +6,12 @@
 
 ## Recursos
 
-Como lo mencionamos en la sesión, el concepto de diseño web adaptable hace
-referencia a que nuestros sitios web puedan dar una buena experiencia en cualquier
-tipo de dispositivo, independientemente del navegador, tamaño o marca que tenga
-el usuario que visita nuestro sitio.
-
 En este postwork, tendrás la misión de completar la experiencia responsiva de la
 sección de casos de éxito y la de cómo funciona que están estructuradas con
 Flexbox y CSS Grid, respectivamente. Recuerda repasar lo visto en clase así como
 visitar el sitio original paar que te des una idea de cómo debe quedar.
 
-![Todas las secciones que tenemos hasta el momento responsivas](../assets/matcha-responsive.png)
+<img src="../assets/matcha-responsive.png" width="250">
 
 Por último, intenta seguir mejorando la experiencia de nuestro sitio a que se
 vea bien en la mayor cantidad de dispositivos que esté a nuestro alcance.
