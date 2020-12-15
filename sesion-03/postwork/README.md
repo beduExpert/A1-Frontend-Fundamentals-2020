@@ -6,11 +6,6 @@
 
 ## Recursos
 
-Como lo mencionamos en la sesión, Flexbox es un mundo muy grande y de momento
-solo hemos podido ver una parte del mismo, para aprovechar al máximo lo que has
-aprendido, este postwork será algo práctico y te compartiremos algunos recursos
-para que puedas consultar en caso te compliques en la implementación.
-
 El objetivo será agregar esta sección usando Flexbox:
 
 ![Postwork](../assets/postwork.png)
