@@ -29,4 +29,4 @@ En esta sesión aprenderás:
 
 - [Reto  03: Agregar última sección de email de bienvenida](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/reto-02)
 
-- [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-05/postwork)
+- [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/postwork)
