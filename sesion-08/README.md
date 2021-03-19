@@ -23,10 +23,10 @@ En esta sesión aprenderás:
 
 - [Ejemplo  04: Creando email de prueba](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/Ejemplo-04)
 
-- [Reto  01: Agrega la imagen descriptiva de Matcha para email](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-07/reto-01)
+- [Reto  01: Agrega la imagen descriptiva de Matcha para email](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/reto-01)
 
-- [Reto  02: Agregando segunda fila de características de Matcha](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-07/reto-02)
+- [Reto  02: Agregando segunda fila de características de Matcha](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/reto-02)
 
-- [Reto  03: Agregar última sección de email de bienvenida](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-07/reto-02)
+- [Reto  03: Agregar última sección de email de bienvenida](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/reto-02)
 
 - [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-05/postwork)
