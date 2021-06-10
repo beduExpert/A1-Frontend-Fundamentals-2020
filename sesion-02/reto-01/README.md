@@ -7,7 +7,7 @@
 
 ## INSTRUCCIONES
 
-Viendo la barra de navegación del sitio original de [Matcha](https://getmatcha.com),
+Viendo la barra de navegación del sitio original de [Matcha](https://bedu-fef.netlify.app/),
 ¿qué etiquetas semánticas consideras que serían buenas usar?
 
 Tomando en cuenta el contenido actual de nuestra web, ¿consideras bueno que se
